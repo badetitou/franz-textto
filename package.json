@@ -1,0 +1,13 @@
+{
+  "id": "textto",
+  "name": "Textto",
+  "version": "1.0.0",
+  "description": "Textto",
+  "main": "index.js",
+  "author": "Benoît Verhaeghe <badetitou@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://textto.io/threads",
+    "hasNotificationSound": false
+  }
+}
