@@ -1,6 +1,6 @@
-# Textto for Franz
+# SendLeap for Franz
 
-An unofficial Franz recipe for [Textto](https://textto.io).
+An unofficial Franz recipe for [SendLeap](https://sendleap.com) (previously TextTo.io).
 
 ## Installing
 
